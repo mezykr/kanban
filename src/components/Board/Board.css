@@ -1,0 +1,15 @@
+.board {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.board__header {
+  align-self: center;
+}
+
+.board__content {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+}

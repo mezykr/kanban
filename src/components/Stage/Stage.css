@@ -1,0 +1,8 @@
+.stage {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 200px;
+  margin: 10px;
+  background: #f1f1f1;
+  padding: 10px;
+}
